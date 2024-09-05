@@ -1,4 +1,4 @@
-# Achieving 84% accuracy is a solid improvement, but if your goal is to reach around 90%, further refinements are necessary.
+# Achieving 84% accuracy is a solid improvement, but if our goal is to reach around 90%, further refinements are necessary.
 
 ##  Here are some additional strategies we can apply:
 
