@@ -1,6 +1,6 @@
 
 
-# Comprehensive Sentiment Analysis Strategies
+# All_inclusive_Sentiment_Analysis_Techniques
 
 ## Overview
 
